@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">hash</h1>
 
-<!--
-**whowashash/whowashash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer+first.;Polyglot+by+choice.;System-level+thinker.;Clean+code+enthusiast." alt="Typing animation" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+I’m a developer who writes code with purpose and precision.  
+I work across many languages and platforms — but **C++ is where I thrive**.
+
+```cpp
+while (true) {
+    build();
+    optimize();
+    learn();
+}
+```
+
+- 🧠 Passionate about **low-level systems**, **performance**, and **clarity**
+- 🧩 Versatile in many languages, tools, and domains
+- 🎯 From embedded to games, from tools to simulations
+
+---
+
+### 💻 I Work With
+
+- **Primary:** `C++` (C++17 / C++20), `C#`
+- **Also use:** `Python`, `Rust`, `Bash`, `TypeScript`, `Lua`
+- **Tooling:** `CMake`, `GDB`, `Valgrind`, `Visual Studio`, `.NET`, `Unity`
+- **Environments:** `Linux`, `Windows`, `WSL`
+
+---
+
+### 🧭 What I Build
+
+- ⚙️ Native tools and custom runtimes  
+- 🎮 Game logic and low-level engines  
+- 🧪 Systems that scale, simulate, or squeeze every drop of performance
+
+---
+
+<p align="center">
+  <strong><i>by hash.</i></strong>
+</p>
