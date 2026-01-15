@@ -1,4 +1,4 @@
-<h1 align="center">hash</h1>
+<h1 align="center">ans</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=500&lines=C%2B%2B+Developer+first.;Polyglot+by+choice.;System-level+thinker.;Clean+code+enthusiast." alt="Typing animation" />
@@ -43,5 +43,5 @@ while (true) {
 ---
 
 <p align="center">
-  <strong><i>by hash.</i></strong>
+  <strong><i>by ans.</i></strong>
 </p>
